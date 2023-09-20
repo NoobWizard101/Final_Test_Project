@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    font-family: 'Arial';
+    color: black;
+}
+
+.hero_container{
+    margin: 50px;
+}
+
+.hero_text{
+    font-family: 'Arial';
+    color: black;
+    text-align: left;
+}
+
+.profile-picture{
+    width: 175px;
+}
+
+.portfolio{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 300px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.first_portfolio{
+    background-image: url(https://i.makeagif.com/media/7-02-2014/ET6DRZ.gif);
+}
+
+.second_portfolio{
+    background-image: url(abstergo_logo.gif);
+}
+
+.third_portfolio{
+    background-image: url(https://pa1.aminoapps.com/6436/3402d6b38167c2ddaff6c6247d2e9d4dfeee5f6b_hq.gif);
+}
+
+.fourth_portfolio{
+    background-image: url(https://i.makeagif.com/media/8-17-2015/nFjwcK.gif);
+}
+
+.toolkit_icons{
+    width: 50px;
+    margin: 20px;
+}
+
+.connect-channel{
+    color: white;
+    margin: 20px;
+}
